@@ -1,5 +1,9 @@
+==================
 The Tegtmeyer Lab
-===================================
+==================
+
+Protocols
+---------
 
 This is the home of all of the Tegtmeyer Lab protocols!
 
