@@ -1,21 +1,28 @@
-=======================
-General lab maintenance 
-=======================
+.. Tegtmeyer Lab Documentation documentation master file.
 
-Cleaning and autoclaving guidelines
-===================================
+Tegtmeyer Lab Protocols
+==========================
+This is the home of all of the Tegtmeyer Lab protocols!
 
-Washing glassware and tools
----------------------------
+Click `here <galloway_lab_protocols.pdf>`_ to access the PDF version.
 
-Glass bottles and flasks
-^^^^^^^^^^^^^^^^^^^^^^^^
+.. toctree::
+   :maxdepth: 2
+   :glob:
 
-Glass beads
-^^^^^^^^^^^
+   general/index
+   instruments/index
+   protocols/index
+   recipes/index
 
-Dissection Tools
-^^^^^^^^^^^^^^^^
+   plot_gallery/index
+   writing_guide/index
 
-Autoclaving
------------
+   bootcamp/index
+
+   tech/index
+
+   contributor_guide
+
+
+
